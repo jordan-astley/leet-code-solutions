@@ -1,3 +1,3 @@
 # leet-code-solutions
 
-# self explanatory solutions currently all in Python.
+### Self explanatory solutions currently all in Python.
